@@ -1,0 +1,5 @@
+.idea/
+obj
+*.pyc
+bin/
+*.TMP
